@@ -1,6 +1,8 @@
 Evented I/O for V8 javascript. [![Build Status](https://secure.travis-ci.org/joyent/node.png)](http://travis-ci.org/joyent/node)
 ===
 
+[![Join the chat at https://gitter.im/akurulk/node](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/akurulk/node?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### To build:
 
 Prerequisites (Unix only):
